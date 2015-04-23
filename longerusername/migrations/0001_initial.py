@@ -57,7 +57,7 @@ class Migration(migrations.Migration):
     """
 
     dependencies = [
-        ('auth', '0001_initial'),
+        ('auth', '0006_require_contenttypes_0002'),
     ]
 
     operations = [
