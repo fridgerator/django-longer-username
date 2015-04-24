@@ -3,7 +3,7 @@ from __future__ import unicode_literals
 
 from django.db import models, migrations
 import django.core.validators
-from . import AlterFieldFromApp
+from longerusername import AlterFieldFromApp
 
 
 class Migration(migrations.Migration):
